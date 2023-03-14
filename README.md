@@ -47,5 +47,5 @@
 
 
 ## Dokumentasi
+![tp1_uml](https://user-images.githubusercontent.com/100748074/224967106-915a5ce1-4893-4fd2-8ce6-912c6d217467.png)
 
-![tp1_uml](https://user-images.githubusercontent.com/100748074/224958911-9bdf67cb-5e00-4672-87d2-170982fbda56.png)
