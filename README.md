@@ -46,12 +46,12 @@
 * ec adalah objek Ec
 
 ## Alur
-* 1 Program menampilkan karakter (Resyad/Pahri/Angga/Getsbi/Mila/Mrs. Rose) untuk dipilih oleh user
-* 2 user memilih karakter atau keluar dari program
-* 3 program menampilkan aktivitas yang dapat dilakukan oleh karakter sesuai role nya
-* 4 user memilih aktivitas karakter atau kembali ke nomor 1
-* 5 program melakukan aktivitas karakter pilihan user (makan/minum/dsb)
-* 6 program kembali ke no 3
+* 1. Program menampilkan karakter (Resyad/Pahri/Angga/Getsbi/Mila/Mrs. Rose) untuk dipilih oleh user
+* 2. user memilih karakter atau keluar dari program
+* 3. program menampilkan aktivitas yang dapat dilakukan oleh karakter sesuai role nya
+* 4. user memilih aktivitas karakter atau kembali ke nomor 1
+* 5. program melakukan aktivitas karakter pilihan user (makan/minum/dsb)
+* 6. program kembali ke no 3
 
 ## Dokumentasi
 ![tp1_uml](https://user-images.githubusercontent.com/100748074/224967106-915a5ce1-4893-4fd2-8ce6-912c6d217467.png)
